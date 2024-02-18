@@ -4,7 +4,8 @@
 
 ## Introduction 
 
-https://perseverancemu.wixsite.com/my-site-1
+- **Deployed Site:** [smart-parking management](https://perseverancemu.wixsite.com/my-site-1)
+- **Author:** [Perseverance Mutengera](https://www.linkedin.com/in/perseverancemutengera/)
 
 Smart parking management is a web-based system with the following functionalities.
 1. Register new users.
