@@ -1,5 +1,7 @@
 # smart-parking-management
 
+<img src="https://github.com/Persemutengera/smart-parking-management/blob/master/media/smart logo.png">
+
 ## Introduction 
 
 https://perseverancemu.wixsite.com/my-site-1
