@@ -1,8 +1,6 @@
 # smart-parking-management
 
-<p align="center">
-![LOGO!](https://static.wixstatic.com/media/84770f_0512b95c6bd44398a825e832e08a47a5f000.jpg/v1/fill/w_1349,h_899,al_c,q_85,usm_0.33_1.00_0.00,enc_auto/84770f_0512b95c6bd44398a825e832e08a47a5f000.jpg)
-</p>
+![smart
 
 ## Introduction 
 
