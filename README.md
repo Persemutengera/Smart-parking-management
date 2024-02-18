@@ -1,6 +1,6 @@
 # smart-parking-management
 
-![smart
+![smart logo!](parking_management/source/static/source/images/smart logo.png)
 
 ## Introduction 
 
