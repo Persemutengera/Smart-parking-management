@@ -1,6 +1,6 @@
 # smart-parking-management
 
-![smart logo!](parking_management/source/static/source/images/smart logo.png)
+![smart logo](https://github.com/Persemutengera/Smart-parking-management/assets/123206539/2d96675c-46aa-4e2a-89f5-968f5484a722)
 
 ## Introduction 
 
