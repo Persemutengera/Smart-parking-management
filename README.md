@@ -1,6 +1,8 @@
 # smart-parking-management
 
-<img src="https://github.com/Persemutengera/smart-parking-management/blob/master/media/smart logo.png">
+<p align="center">
+  <img src="https://github.com/Persemutengera/smart-parking-management/blob/main/public/picture/images/logo/full/smart-logo.png?raw=true" width="400" alt="logo"/>
+</p>
 
 ## Introduction 
 
