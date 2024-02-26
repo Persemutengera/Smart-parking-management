@@ -82,7 +82,7 @@ python manage.py runserver
 
 ## Usage
 
-To get started with Smart parking management system, the hosted version of the product can be used. You can get started immediately at (https://perseverancemu.wixsite.com/my-site-1). After the login page, you will be guided through creating your first service. The [website](https://perseverancemu.wixsite.com/my-site-1) provides an overview of the application, additional information on the product and guides can be found in the web app.
+To get started with Smart parking management system, the hosted version of the product can be used. You can get started immediately at (https://perseverancemu.wixsite.com/my-site-1). After the login page, you will be guided through creating your first service. The [website](https://perseverancemu.wixsite.com/parkease) provides an overview of the application, additional information on the product and guides can be found in the web app.
 
 ## Contributing
 
